@@ -15,7 +15,7 @@ theme_config:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.ice-maple.com/about
 # # url: http://localhost:4000
-root: /about/
+root: /
 # url: https://gonghs.gitee.io/resume-docs
 # root: /resume-docs/
 

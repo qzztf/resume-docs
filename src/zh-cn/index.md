@@ -2,12 +2,12 @@
 # 语言 （可选）
 lang: zh-cn
 # 网页关键词和描述
-keywords: 简历,Hexo,龚海生的简历
-description: 龚海生的在线简历。
+keywords: 简历,Hexo
+description: 水娃的在线简历。
 # 简历标题
-resume_title: Maple's Resume
+resume_title: WaterMan's Resume
 # 应聘者姓名
-name: 龚海生
+name: 秦在振
 # 联系方式
 contact:
   - icon: fas fa-home
@@ -29,6 +29,8 @@ download:
   title: PDF下载
   icon: fas fa-download fa-fw
   url: http://www.ice-maple.com/uploads/Maple's Resume.pdf
+
+encrypt: true
 ---
 
 {% raw %}

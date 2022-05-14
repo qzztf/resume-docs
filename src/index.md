@@ -27,6 +27,7 @@ download:
   title: Download
   icon: fas fa-download fa-fw
   url: https://github.com/xaoxuu/resume-docs
+encrypt: true
 ---
 
 {% raw %}
